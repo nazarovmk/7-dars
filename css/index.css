@@ -1,0 +1,250 @@
+@import "./fonts.css";
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+a {
+  text-decoration: none;
+  display: inline-block;
+}
+
+body {
+  height: 100vh;
+  font-family: Arial, Helvetica, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #fff7fb;
+  color: #ffffff;
+}
+
+.ofif {
+  border-radius: 24px;
+  padding-top: 40px;
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-bottom: 40px;
+  width: 736px;
+  text-align: left;
+  background-color: #ffffff;
+}
+.simple {
+  font-family: "Young Serif";
+  padding-top: 40px;
+  font-size: 40px;
+  font-weight: 400;
+  line-height: 40px;
+  color: #312e2c;
+}
+.text {
+  padding-top: 24px;
+  width: 656px;
+  font-family: "Outfit";
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #5f564d;
+}
+
+.top {
+  margin-top: 32px;
+  border-radius: 12px;
+
+  background-color: #fff7fb;
+}
+
+.prepatot {
+  padding-left: 20px;
+  padding-top: 28px;
+  font-family: "Outfit";
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 20px;
+  color: #7a284e;
+}
+
+.uls {
+  padding-left: 40px;
+}
+
+.Cooking {
+  padding-top: 8px;
+  width: 656px;
+  font-family: "Outfit";
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #5f564d;
+}
+
+.Cooking:last-child {
+  padding-bottom: 28px;
+  width: 656px;
+  font-family: "Outfit";
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #5f564d;
+}
+
+.or {
+  margin-top: 32px;
+  margin-bottom: 32px;
+}
+
+.or > ul {
+  margin-left: 40px;
+}
+
+.Ingred {
+  font-family: "Young Serif";
+  padding-left: 20px;
+  font-size: 28px;
+  font-weight: 400;
+  line-height: 28px;
+  color: #854632;
+}
+
+.optional {
+  font-family: "Outfit";
+  padding-top: 8px;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #5f564d;
+}
+
+.optionall {
+  font-family: "Outfit";
+  padding-top: 24px;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #5f564d;
+}
+
+.lines {
+  width: 656px;
+  border: 1px solid #e3ddd7;
+  margin-bottom: 32px;
+}
+
+.bottom {
+  margin-left: 40px;
+}
+
+.input {
+  padding-left: 20px;
+  font-family: "Young Serif";
+  font-size: 28px;
+  font-weight: 400;
+  line-height: 28px;
+  color: #854632;
+}
+
+.beat {
+  padding-right: 40px;
+  padding-top: 8px;
+  width: 656px;
+  font-family: Outfit;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #5f564d;
+}
+
+.beat:last-child {
+  padding-right: 40px;
+  padding-top: 8px;
+  padding-bottom: 32px;
+  width: 656px;
+  font-family: Outfit;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #5f564d;
+}
+
+.beatt {
+  padding-top: 24px;
+  width: 656px;
+  font-family: Outfit;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #5f564d;
+}
+
+.beat-text {
+  font-family: "Outfit";
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 24px;
+  color: #5f564d;
+}
+
+.bottom-text {
+  padding-top: 24px;
+  padding-left: 20px;
+  padding-bottom: 24px;
+  width: 656px;
+  font-family: "Outfit";
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #5f564d;
+}
+
+.bottom-list {
+  color: #5f564d;
+  padding-left: 32px;
+  font-family: "Outfit";
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+}
+
+.bottom-item {
+  padding-left: 236px;
+  color: #854632;
+  font-family: "Outfit";
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 24px;
+}
+
+.bottom-item1 {
+  padding-left: 260px;
+  color: #854632;
+  font-family: "Outfit";
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 24px;
+}
+
+.bottom-item2 {
+  padding-left: 250px;
+  color: #854632;
+  font-family: "Outfit";
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 24px;
+}
+
+.bottom-item3 {
+  padding-left: 270px;
+  color: #854632;
+  font-family: "Outfit";
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 24px;
+}
+
+.line {
+  margin-top: 12px;
+  margin-bottom: 12px;
+  border: 1px solid #e3ddd7;
+}
